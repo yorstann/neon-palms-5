@@ -1,3 +1,7 @@
+// NEON PALMS — round 4 entry for gta6-01: an original top-down open-world crime game
+// (six-district Palmera Bay, Mara Voss's seven-mission campaign, dynamic rain weather,
+// marina street races, roadblocks, spike strips and a searchlight helicopter), built
+// fresh for this round; the packaging plumbing below is the kit's, kept as handed out.
 // A working gta6-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
